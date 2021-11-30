@@ -14,7 +14,7 @@ opportunites.each((opportunity) -> {
 })
 
 
-println "Each with Conditional Lamba Implemetation"
+println "Each with Conditional constructs around Lamba Implementation"
 opportunites.each((opportunity) -> {
     if(opportunity>600){
         println "Opportunity is ${opportunity}"
