@@ -18,4 +18,3 @@ println "To: ${weekdays.to}"
 weekdays.each({day->
     println "$day"
 })
-
